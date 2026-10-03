@@ -46,12 +46,26 @@ pharmeasy-regional-pulse/
 │
 ├── app.py
 ├── build_db.py
+├── build_database.py
 ├── queries.py
-├── pharmeasy.db
-├── pharmeasy_orders_clean.csv
-├── pharmeasy_orders_normalized.csv
+├── calculate_metrics.py
+├── clean_data.py
+├── generate_data.py
+├── generate_insights.py
+├── generate_memo.py
+├── monthly_analysis.py
+├── normalize_regions.py
+├── performance_flags.py
+├── review_gate.py
+├── validate_data.py
+│
+├── regional_insights.txt
+├── review_report.txt
+├── dashboard_report.pdf
+│
+├── requirements.txt
 ├── README.md
-└── requirements.txt
+└── .gitignore
 ```
 
 ## ⚙️ Installation and Setup
