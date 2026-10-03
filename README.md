@@ -91,3 +91,7 @@ Its interactive filters and downloadable reports support further analysis and bu
 **Project Name:** PharmEasy Regional Pulse
 **Domain:** Data Analytics and Business Intelligence
 **Application:** Interactive Sales Performance Dashboard
+
+## Dashboard Report
+
+[View Full Dashboard Report (PDF)][dashboard_report.pdf](https://github.com/user-attachments/files/32990338/dashboard_report.pdf)
